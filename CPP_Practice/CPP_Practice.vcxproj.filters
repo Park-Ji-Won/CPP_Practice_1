@@ -18,5 +18,11 @@
     <ClCompile Include="HW.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Random_Pick_Number.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Math_Calculator.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
