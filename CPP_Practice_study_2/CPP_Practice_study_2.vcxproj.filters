@@ -33,6 +33,9 @@
     <ClCompile Include="CH03_LMS02_Main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CH03_LMS01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CH03_LMS02_Rectangle.h">
