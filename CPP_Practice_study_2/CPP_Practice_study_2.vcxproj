@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="ch02_1.cpp" />
     <ClCompile Include="ch02_2.cpp" />
+    <ClCompile Include="CH02_LMS_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
