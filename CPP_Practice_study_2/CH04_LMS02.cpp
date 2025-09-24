@@ -17,3 +17,7 @@ public:
 Circle::Circle() {
 	radius = 1;
 }
+
+int main() {
+
+}
