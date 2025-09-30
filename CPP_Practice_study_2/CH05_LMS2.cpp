@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-class Point {
+class Point { //예시
 public:
 	int x, y;
 	Point(int a=0, int b=0): x(a),y(b){}
@@ -33,7 +33,7 @@ void cReference(Point& p) {
 
 int main() {
 
-	Point p1(1, 2);
+	Point p1(1, 2); //예시
 
 	cout << "초기 값 : ";
 	p1.print();
@@ -50,9 +50,9 @@ int main() {
 	cout << "Reference 후 원본 값 : ";
 	p1.print();
 
-	cValue(p1);
-	cAddress(&p1);
-	cReference(p1);
+	cValue(p1); //예시
+	cAddress(&p1); //예시
+	cReference(p1); //예시
 
 	return 0;
 }
