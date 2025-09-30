@@ -42,5 +42,11 @@
     <ClCompile Include="CH02_LMS01.cpp">
       <Filter>소스 파일\CH02_LMS</Filter>
     </ClCompile>
+    <ClCompile Include="CH05_LMS1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CH05_LMS2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
