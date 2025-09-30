@@ -24,16 +24,16 @@ void cReference(int(&arr)[5]) {
 }
 
 int main() {
-	int arr[5] = { 1,2,3,4,5 };
+	int arr[5] = { 1,2,3,4,5 }; //힌트
 
 	for (int i = 0; i < 5; i++) {
 		cout << arr[i] << "\t";
 	}
 	cout << endl;
 
-	cValue(arr);
-	cAddress(arr);
-	cReference(arr);
+	cValue(arr); //힌트
+	cAddress(arr); //힌트
+	cReference(arr); //힌트
 
 	return 0;
 }
