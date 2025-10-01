@@ -16,6 +16,15 @@
     <Filter Include="소스 파일\CH02_LMS">
       <UniqueIdentifier>{6b401e67-7485-44fa-82ef-d36a3772a857}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CH03_LMS">
+      <UniqueIdentifier>{ba3b7cd5-9996-437d-9682-2269adc345c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH04_LMS">
+      <UniqueIdentifier>{6386ca5a-6daf-44e8-bf94-94a8feba32ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CH05_LMS">
+      <UniqueIdentifier>{aec54577-c1a2-4e56-9e31-89d3a3142895}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch02_1.cpp">
@@ -24,5 +33,55 @@
     <ClCompile Include="ch02_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CH02_LMS_1.cpp">
+      <Filter>소스 파일\CH02_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02_LMS_1_2.cpp">
+      <Filter>소스 파일\CH02_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02_LMS_1_3.cpp">
+      <Filter>소스 파일\CH02_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02_LMS_1_4.cpp">
+      <Filter>소스 파일\CH02_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02_LMS01.cpp">
+      <Filter>소스 파일\CH02_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02_LMS02.cpp">
+      <Filter>소스 파일\CH02_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03_LMS_1_1.cpp">
+      <Filter>소스 파일\CH03_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03_LMS01.cpp">
+      <Filter>소스 파일\CH03_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03_LMS02.cpp">
+      <Filter>소스 파일\CH03_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03_LMS02_Main.cpp">
+      <Filter>소스 파일\CH03_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03_LMS02_Rectangle.cpp">
+      <Filter>소스 파일\CH03_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH04_LMS01.cpp">
+      <Filter>소스 파일\CH04_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH04_LMS02.cpp">
+      <Filter>소스 파일\CH04_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH05_LMS1.cpp">
+      <Filter>소스 파일\CH05_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH05_LMS2.cpp">
+      <Filter>소스 파일\CH05_LMS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CH03_LMS02_Rectangle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
