@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\CH06_LMS">
       <UniqueIdentifier>{5a3f6ea4-fe9c-44d0-9f90-a6ed4df1eb54}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\CH07_LMS">
+      <UniqueIdentifier>{90f60ab2-3819-46df-8255-c3e9ea59d867}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch02_1.cpp">
@@ -89,6 +92,12 @@
     </ClCompile>
     <ClCompile Include="CH06_LMS2.cpp">
       <Filter>소스 파일\CH06_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH07_LMS01.cpp">
+      <Filter>소스 파일\CH07_LMS</Filter>
+    </ClCompile>
+    <ClCompile Include="CH07_LMS02.cpp">
+      <Filter>소스 파일\CH07_LMS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
