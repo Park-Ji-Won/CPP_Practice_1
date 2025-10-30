@@ -17,8 +17,8 @@ void Power::show() {
 	cout << "kick = " << kick << ',' << "punch = " << punch << endl;
 }
 
-bool operator!=(Power& op1, Power& op2) {
-	if (op1.kick != op2.kick || op1.punch != op2.punch)
+bool operator!=(Power& op1, Power& op2) { // != -> 같지 않으면 true, 같다면 false
+	if (op1.kick != op2.kick || op1.punch != op2.punch) // ||(OR) 둘중 하나라도 다르다면 ture, 둘다 같다면 false
 		return true;
 	else
 		return false;
