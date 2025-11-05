@@ -190,6 +190,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CH08_LMS1.cpp" />
+    <ClCompile Include="CH09_LMS1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CH03_LMS02_Rectangle.h" />
