@@ -111,6 +111,9 @@
     <ClCompile Include="CH09_LMS1.cpp">
       <Filter>소스 파일\CH09_LMS</Filter>
     </ClCompile>
+    <ClCompile Include="CH08_LMS1_2.cpp">
+      <Filter>소스 파일\CH08_LMS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CH03_LMS02_Rectangle.h">
