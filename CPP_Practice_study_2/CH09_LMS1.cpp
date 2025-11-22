@@ -38,6 +38,10 @@ class Multiplier : public Calculator {
 
 class Divider : public Calculator {
 	int calc(int a, int b) {
+		if (b == 0) {
+			cout << "0으로 나눌수 없습니다. 다시하십시오." << endl;
+			return 0;
+		}
 		return a / b;
 	}
 };
